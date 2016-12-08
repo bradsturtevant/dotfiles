@@ -1,0 +1,44 @@
+;; -*- emacs-lisp -*- <16/12/05 01:50:27 /home/bradford/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["pscp" "bsturtevant" "172.16.33.186" nil nil]
+  ("uname" "Linux 3.5.0-42-generic")
+  ("test" "test")
+  ("remote-path" nil)
+  ("remote-shell" "/bin/sh")
+  ("busybox" nil)
+  ("~" "/home/bsturtevant")
+  ("file-exists" "test -e")
+  ("readlink" nil)
+  ("perl" nil)
+  ("stat" nil))
+ (["plinkx" nil "sun-bsturtevant" nil nil]
+  ("uname" "Linux 3.5.0-42-generic")
+  ("test" "test")
+  ("remote-path" nil)
+  ("remote-shell" "/bin/sh")
+  ("busybox" nil)
+  ("~" "/home/bsturtevant")
+  ("file-exists" "test -e")
+  ("readlink" nil)
+  ("perl" nil)
+  ("stat" nil))
+ (["su" "root" "swksbuilds.sturdyworks.org" nil nil]
+  ("uname" "Linux 3.10.0-514.el7.x86_64")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("busybox" nil)
+  ("file-exists" "test -e")
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("ls" "/usr/bin/ls --color=never")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("~root" "/root")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 0)
+  ("uid-integer" 0)))

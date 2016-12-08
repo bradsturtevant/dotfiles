@@ -1,0 +1,36 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/bradford/Develop/src/" . "dotfiles/")
+ ("/home/bradford/Develop/" . "src/")
+ ("/home/bradford/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/bradford/.emacs.d/"
+ "/home/bradford/Develop/src/dotfiles/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "README.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/bradford/.emacs.d/" (22600 27737 226709 418000) "places" "init.el" "init-cut.el" "#init.el#" "#init-cut.el#" "init.el~" "tramp" "server/" "elpa/" "elisp/" "auto-saves/" "session.10edf05ec2da5e2fab148082193391541200000048420037" "auto-save-list/" "../" "./")
+
+ ("/home/bradford/Develop/src/dotfiles/" (22600 11808 815523 473000) ".gitconfig" "README.md" "LICENSE" ".gitignore" ".git/" "../" "./")
+
+ ("/home/bradford/Develop/src/" (22600 10687 169129 0) "dotfiles/" "exuberant-ctags/" "gnu-global/" "../" "./")
+
+ ("/home/bradford/Develop/" (22595 37660 47877 630000) "src/" "../" "./")
+
+ ("/home/bradford/" (22600 25165 444460 918000) ".git-credentials" ".git-credential-cache/" ".pki/" ".gitconfig" ".vboxclient-draganddrop.pid" ".vboxclient-seamless.pid" ".vboxclient-display.pid" ".vboxclient-clipboard.pid" ".bashrc" "Envs/" "SysAdmin/" ".bash_profile" "Develop/" ".emacs.d/" ".gnome2_private/" ".gnome2/" ".ssh/" ".gnupg/" ".kde/" ".bash_history" ".esd_auth" ".local/" ".ICEauthority" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Templates/" "Downloads/" "Desktop/" ".config/" ".cache/" ".bash_logout" ".mozilla/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
